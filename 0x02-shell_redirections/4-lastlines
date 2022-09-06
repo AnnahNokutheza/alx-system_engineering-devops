@@ -1,2 +1,2 @@
 #!/bin/bash
-cat No such file or directory
+tail -n 10 /etc/passwd
