@@ -1,1 +1,1 @@
-command that finds all empty files and directories
+script that lists all the files with a .gif extension
