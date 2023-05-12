@@ -1,8 +1,1 @@
-0x19. Postmortem
-
-Resources
-Read or watch:
-
-Incident Report, also referred to as a Postmortem
-The importance of an incident postmortem process
-What is an Incident Postmortem?
+https://docs.google.com/document/d/1blP4B5HUtjxQbXr8vJMgr-rgjefLm-R7aMKMMBH6j2I/edit?usp=sharing
